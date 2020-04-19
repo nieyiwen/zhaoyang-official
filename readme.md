@@ -1,22 +1,10 @@
-#初始化仓库 - 上海联璧电子科技官网重构项目
+# 北京鑫东汇国际科技发展有限公司官网
+北京鑫东汇国际科技发展有限公司位于北京密云区， 是一家专业从事外汇交易市场的服务商。公司依托香港横华国际， 强强联手东恒万通（北京）信息咨询有限公司，为广大交易者提供公平、公开的交易服务社区。 公司整理出独特的交易课程体系针对二级交易市场深度培养交易型人才。
 
-######`时间` 2014-11-06
-######`目的` 官网结构更新与主推内容的价值体现
+服务内容：
+从事股指、期货、外汇领域人才的全面培养
+对企业的全方位金融服务
+在金融交易方面进行科技创新的研究制造
 
-### Add & Update
-* 创建文件目录结构
-* 添加相关库文件
-
-### 目录结构
-###### Root - Html
-###### Root → css - *.css
-###### Root → css → img - *.jpg/gif/png
-###### Root → css → img → bg - *.jpg/gif/png
-###### Root → css → img → logo - *.jpg/gif/png
-###### Root → css → img → module - *.jpg/gif/png
-###### Root → js - *.js
-###### Root → plugins → jquery - jquery-1.8.3.min.js
-###### Root → plugins → themepunch → assets - *.jpg/gif/png
-###### Root → plugins → themepunch → css - settings.css
-###### Root → plugins → themepunch → js - *.js
-###### Root → src → 各类上传资源图形 *.jpg/gif/png
+技术要点：
+基于jQuery, Bootstrap等JS框架完成静态页面搭建。
