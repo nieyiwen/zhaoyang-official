@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="137c91ab-cda5-4fff-8a57-27379ce97768" name="Default" comment="" />
+    <list default="true" id="137c91ab-cda5-4fff-8a57-27379ce97768" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/company.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/team1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/team2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/team3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/team4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/team5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/home1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/home2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/dongying.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/guohongwei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/liujun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/shending.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/wangxinyi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/zhangjun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/zhangqiang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team/zhangzhipeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +37,15 @@
   <component name="ProjectId" id="1akSnBkiVUdp2ABidHLuns3bk3F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/sub_special_project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -44,10 +71,25 @@
       <option name="presentableId" value="Default" />
       <updated>1543716451276</updated>
       <workItem from="1587278263918" duration="289000" />
+      <workItem from="1587524258656" duration="18772000" />
+      <workItem from="1587704953714" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
