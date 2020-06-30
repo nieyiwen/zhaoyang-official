@@ -3,23 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="137c91ab-cda5-4fff-8a57-27379ce97768" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/company.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/team3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/team4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/team5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider/home1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider/home2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/dongying.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/guohongwei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/liujun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/shending.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/team.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/wangxinyi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/zhangjun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/zhangqiang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/zhangzhipeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/company2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/company2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/sub_special_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +58,11 @@
       <workItem from="1587278263918" duration="289000" />
       <workItem from="1587524258656" duration="18772000" />
       <workItem from="1587704953714" duration="25000" />
+      <workItem from="1587953887892" duration="1974000" />
+      <workItem from="1588166929702" duration="4530000" />
+      <workItem from="1588225381504" duration="6774000" />
+      <workItem from="1589082885478" duration="24000" />
+      <workItem from="1593506170865" duration="469000" />
     </task>
     <servers />
   </component>
